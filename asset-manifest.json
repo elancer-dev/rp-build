@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/rp-build/static/css/main.68b2e402.chunk.css",
+    "main.js": "/rp-build/static/js/main.7b492b37.chunk.js",
+    "runtime-main.js": "/rp-build/static/js/runtime-main.457667ed.js",
+    "static/js/2.3f266ebe.chunk.js": "/rp-build/static/js/2.3f266ebe.chunk.js",
+    "index.html": "/rp-build/index.html",
+    "precache-manifest.0224ac9542e12b9495c521682f7b4fd1.js": "/rp-build/precache-manifest.0224ac9542e12b9495c521682f7b4fd1.js",
+    "service-worker.js": "/rp-build/service-worker.js",
+    "static/js/2.3f266ebe.chunk.js.LICENSE.txt": "/rp-build/static/js/2.3f266ebe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.457667ed.js",
+    "static/js/2.3f266ebe.chunk.js",
+    "static/css/main.68b2e402.chunk.css",
+    "static/js/main.7b492b37.chunk.js"
+  ]
+}
